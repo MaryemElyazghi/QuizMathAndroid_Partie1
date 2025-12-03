@@ -1,3 +1,42 @@
+<<<<<<< HEAD
 <resources>
     <string name="app_name">MathQuiz</string>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">MathQuiz</string>
+
+    <!-- Titres et labels -->
+    <string name="title_main">Quiz Mathématique</string>
+    <string name="label_number1">Nombre 1</string>
+    <string name="label_number2">Nombre 2</string>
+    <string name="label_result">Résultat</string>
+    <string name="label_score">Score: %1$d</string>
+    <string name="label_difficulty">Niveau</string>
+    <string name="label_history">Historique</string>
+
+    <!-- Boutons opérations -->
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_generate">Générer</string>
+    <string name="btn_reset_score">Réinitialiser</string>
+    <string name="btn_show_history">Voir Historique</string>
+
+    <!-- Niveaux de difficulté -->
+    <string name="difficulty_easy">Facile</string>
+    <string name="difficulty_medium">Moyen</string>
+    <string name="difficulty_hard">Difficile</string>
+
+    <!-- Messages -->
+    <string name="msg_correct">Correct! +10 points</string>
+    <string name="msg_incorrect">Incorrect! La bonne réponse était: %1$d</string>
+    <string name="msg_empty_history">Aucun historique disponible</string>
+    <string name="result_placeholder">?</string>
+    <string name="history_entry">%1$d %2$s %3$d = %4$d</string>
+
+    <!-- Instructions -->
+    <string name="instruction">Choisissez l\'opération correcte</string>
+>>>>>>> 83965a74dfe386f44d95bab28d078f596135ee1f
 </resources>

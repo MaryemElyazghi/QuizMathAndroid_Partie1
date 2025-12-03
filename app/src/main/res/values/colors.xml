@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +8,39 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+=======
+    <!-- Couleurs principales Material Design -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <!-- Couleurs de fond -->
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="cardBackground">#FFFFFF</color>
+
+    <!-- Couleurs des boutons opérations -->
+    <color name="btnAddColor">#4CAF50</color>
+    <color name="btnSubtractColor">#FF9800</color>
+    <color name="btnMultiplyColor">#9C27B0</color>
+    <color name="btnGenerateColor">#2196F3</color>
+
+    <!-- Couleurs des états -->
+    <color name="btnPressedColor">#1565C0</color>
+    <color name="correctColor">#4CAF50</color>
+    <color name="incorrectColor">#F44336</color>
+
+    <!-- Couleurs du texte -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textWhite">#FFFFFF</color>
+
+    <!-- Couleurs des niveaux de difficulté -->
+    <color name="easyColor">#81C784</color>
+    <color name="mediumColor">#FFB74D</color>
+    <color name="hardColor">#E57373</color>
+
+    <!-- Autres couleurs -->
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="shadowColor">#40000000</color>
+>>>>>>> 83965a74dfe386f44d95bab28d078f596135ee1f
 </resources>
