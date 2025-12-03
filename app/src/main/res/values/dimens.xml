@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Marges et paddings -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+
+    <!-- Tailles de texte -->
+    <dimen name="text_size_title">28sp</dimen>
+    <dimen name="text_size_large">48sp</dimen>
+    <dimen name="text_size_medium">24sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_button">18sp</dimen>
+
+    <!-- Tailles des boutons -->
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_width_operation">80dp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+
+    <!-- Tailles des cartes -->
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+
+    <!-- Tailles des nombres -->
+    <dimen name="number_size">72sp</dimen>
+    <dimen name="result_size">56sp</dimen>
+
+    <!-- Autres dimensions -->
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+</resources>
