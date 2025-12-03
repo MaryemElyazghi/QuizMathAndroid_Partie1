@@ -213,7 +213,7 @@ Ce projet est un exercice éducatif développé dans le cadre du cours de dével
 
 ## 👨‍💻 Auteur
 
-**Votre Nom** - Groupe GINF
+**Maryem EL YAZGHI** - Groupe GINF3
 
 ---
 
